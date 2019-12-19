@@ -1,0 +1,49 @@
+{
+    "name": "Kapeli",
+    "description": "<p>Dash is an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 150+ APIs (for a full list, see below). You can even generate your own docsets or request docsets to be included.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/kapelli-dash.jpeg",
+    "tags": [
+        "api service provider",
+        "discovery",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/kapeli\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Kapeli",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/kapelli-dash.jpeg",
+            "humanURL": "https:\/\/kapeli.com\/dash",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kapeli-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/blog.kapeli.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/blog.kapeli.com\/atom.xml"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/kapeli"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/kapeli.com\/dash"
+        }
+    ]
+}
